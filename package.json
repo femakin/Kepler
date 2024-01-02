@@ -1,0 +1,15 @@
+{
+  "name": "kepler-full-stack-test",
+  "version": "1.0.0",
+  "description": "Welcome! As you'll probably tell, we don't have a lot going on here, we simply want to test your technical and problem solving skills in relation to our stack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^1.0.4"
+  }
+}
